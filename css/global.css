@@ -48,6 +48,7 @@ header, footer, section, article, .section_container{ float:left; width:100%;}
     border-radius: 3px;
 }
 textarea{margin-bottom:15px; width:100%; padding:10px;}
+img{max-width:100%;}
 
 /* -------------------------------------------- global -------------------------------------------------------- */
 

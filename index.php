@@ -17,6 +17,85 @@
 					<div class="about">
 						Milan Kodavala Is Product Designer living in Ahmedabad, india.
 					</div>
+
+					<div class="productList">
+						<div class="row">
+							<div class="col s12">
+								<div class="product fullW">
+									<div class="media">
+										<img src="img/dribbble_shot_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s6">
+								<div class="product halfW">
+									<div class="media">
+										<img src="img/dribbble_shot_full_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s6">
+								<div class="product halfW">
+									<div class="media">
+										<img src="img/dribbble_shot_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col s12">
+								<div class="product fullW">
+									<div class="media">
+										<img src="img/dribbble_shot_full_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s6">
+								<div class="product halfW">
+									<div class="media">
+										<img src="img/dribbble_shot_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col s6">
+								<div class="product halfW">
+									<div class="media">
+										<img src="img/dribbble_shot_hd.png" alt="">
+									</div>
+									<div class="overlayMedia">
+										<div class="omCont">
+											<p>Video AI</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 		<!--/*body details*/-->
 		</article>
